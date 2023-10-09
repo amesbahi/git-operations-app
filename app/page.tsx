@@ -44,7 +44,7 @@ const GitOperationsHandler = () => {
         </button>
       </div>
       {/* Displays the success or failure message of operations. */}
-      {message && <div>{message}</div>}{" "}
+      {message && <div>{message}</div>}
     </div>
   );
 };
